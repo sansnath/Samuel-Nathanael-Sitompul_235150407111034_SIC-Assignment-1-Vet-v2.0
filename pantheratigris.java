@@ -1,7 +1,7 @@
 package pemlan2;
 
 public class pantheratigris {
-    String id; // field, implementing attribut
+    String id;
     String name;
     String colour;
     int yearOfBirth;
